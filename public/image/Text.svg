@@ -1,0 +1,69 @@
+<svg width="800" height="1200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="1200" fill="#FFFFFF"/>
+  <text x="40" y="80" font-family="Arial" font-size="36" font-weight="bold" fill="#000000">Chris Candidate</text>
+  <text x="40" y="120" font-family="Arial" font-size="20" fill="#666666">Human Resource Manager</text>
+  <text x="40" y="160" font-family="Arial" font-size="16" fill="#000000">4759 Sunnyside Lane, Plano, TX 75024</text>
+  <text x="40" y="180" font-family="Arial" font-size="16" fill="#000000">email@yourmail.com</text>
+  <text x="40" y="200" font-family="Arial" font-size="16" fill="#000000">(469) 888-2344</text>
+
+  <text x="40" y="250" font-family="Arial" font-size="14" fill="#000000">
+    Human resources generalist with 8 years of experience in HR, including hiring,
+    terminating, disciplining employees and helping department managers improve
+    employee performance. Worked with labor unions to negotiate compensation
+    packages for workers. Organized and led hiring initiatives as well as ongoing
+    training to achieve workplace safety standards. Worked with OSHA to ensure
+    that all safety regulations are followed.
+  </text>
+
+  <text x="40" y="400" font-family="Arial" font-size="20" font-weight="bold" fill="#000000">Key Skills</text>
+  <text x="40" y="430" font-family="Arial" font-size="14" fill="#000000">
+    - Detail oriented<br/>
+    - Well-versed in Texas employment law<br/>
+    - Excellent written and oral communication skills<br/>
+    - Develops workplace relationships<br/>
+    - Confident in conflict resolution abilities<br/>
+    - Able to prioritize daily duties<br/>
+    - Proficiency with TimeForce timekeeper software<br/>
+    - Excel proficient
+  </text>
+
+  <text x="400" y="80" font-family="Arial" font-size="20" font-weight="bold" fill="#000000">Professional Experience</text>
+
+  <text x="400" y="120" font-family="Arial" font-size="16" font-weight="bold" fill="#000000">Human Resources Manager</text>
+  <text x="400" y="140" font-family="Arial" font-size="14" fill="#666666">Jim's Widget Factory, Plano, TX | January 2016 - Present</text>
+  <text x="400" y="160" font-family="Arial" font-size="14" fill="#000000">
+    - Implement effective company policies to ensure that all practices comply with labor<br/>
+    and employment regulations<br/>
+    - Increased employee retention rates by managing workplace satisfaction to an over<br/>
+    90% success rate by creating and maintaining a positive work environment<br/>
+    - Develop targeted outreach practices to increase minority recruitment and ensure<br/>
+    compliance with affirmative action policies<br/>
+    - Monitor scheduled in and out times as well as employee breaks to ensure that proper<br/>
+    employment laws are met
+  </text>
+
+  <text x="400" y="260" font-family="Arial" font-size="16" font-weight="bold" fill="#000000">Human Resources Associate</text>
+  <text x="400" y="280" font-family="Arial" font-size="14" fill="#666666">Jim's Widget Factory, Plano, TX | March 2015 - January 2016</text>
+  <text x="400" y="300" font-family="Arial" font-size="14" fill="#000000">
+    - Implement effective company policies to ensure that all practices comply with labor<br/>
+    and employment regulations<br/>
+    - Increased employee retention rates by managing workplace satisfaction to an over<br/>
+    90% success rate by creating and maintaining a positive work environment<br/>
+    - Develop targeted outreach practices to increase minority recruitment and ensure<br/>
+    compliance with affirmative action policies
+  </text>
+
+  <text x="400" y="400" font-family="Arial" font-size="20" font-weight="bold" fill="#000000">Education</text>
+  <text x="400" y="440" font-family="Arial" font-size="16" font-weight="bold" fill="#000000">Masters in Human Resources</text>
+  <text x="400" y="460" font-family="Arial" font-size="14" fill="#666666">The University of Texas, Dallas | September 2007 - May 2011</text>
+  <text x="400" y="480" font-family="Arial" font-size="14" fill="#000000">Academic Awardee of AY 2007-2008</text>
+
+  <text x="400" y="540" font-family="Arial" font-size="20" font-weight="bold" fill="#000000">Certifications</text>
+  <text x="400" y="580" font-family="Arial" font-size="16" font-weight="bold" fill="#000000">Professional in Human Resources</text>
+  <text x="400" y="600" font-family="Arial" font-size="14" fill="#666666">Human Resource Certification Institute (HRCI) | September 2020</text>
+  <text x="400" y="620" font-family="Arial" font-size="14" fill="#0000EE">www.hrci.org/certifications/individual-certifications/phr</text>
+  <text x="400" y="640" font-family="Arial" font-size="14" fill="#000000">
+    I earned the Professional in Human Resources certificate from the Human Resource<br/>
+    Certification Institute (HRCI).
+  </text>
+</svg>
